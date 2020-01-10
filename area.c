@@ -1,8 +1,9 @@
 #include<stdio.h>
+#define pi 3.14
 int main()
 {
 int r;
-float A,p,pi=3.14;
+float A,p;
 printf("enter the values of radius:");
 scanf("%d",&r);
 A=(pi*r*r);
